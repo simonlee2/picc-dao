@@ -1,5 +1,6 @@
 {
   "name": "mydao",
+  "homepage": "https://simonlee.dev/picc-dao",
   "version": "0.1.0",
   "private": true,
   "engines": {
