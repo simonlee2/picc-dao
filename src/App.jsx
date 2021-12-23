@@ -1,4 +1,5 @@
 import { ThirdwebSDK } from "@3rdweb/sdk";
+import { UnsupportedChainIdError } from "@web3-react/core";
 import { useEffect, useState, useMemo } from "react";
 import { useWeb3 } from "@3rdweb/hooks";
 import { ethers } from "ethers";
@@ -212,7 +213,7 @@ const App = () => {
   // ----------------------------------------------------------------------------------
   // UI
   // ----------------------------------------------------------------------------------
-  if (error && error.name === "UnsupportedChainIdError") {
+  if (error && error instanceof UnsupportedChainIdError) {
     return (
       <div className="unsupported-network">
         <h2>Please connect to Rinkeby</h2>
