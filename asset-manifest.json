@@ -3,8 +3,8 @@
     "static/js/0.14c19f3b.chunk.js": "/picc-dao/static/js/0.14c19f3b.chunk.js",
     "static/js/0.14c19f3b.chunk.js.map": "/picc-dao/static/js/0.14c19f3b.chunk.js.map",
     "main.css": "/picc-dao/static/css/main.13e43e85.chunk.css",
-    "main.js": "/picc-dao/static/js/main.ed6a00d8.chunk.js",
-    "main.js.map": "/picc-dao/static/js/main.ed6a00d8.chunk.js.map",
+    "main.js": "/picc-dao/static/js/main.9e3763fc.chunk.js",
+    "main.js.map": "/picc-dao/static/js/main.9e3763fc.chunk.js.map",
     "runtime-main.js": "/picc-dao/static/js/runtime-main.a623094c.js",
     "runtime-main.js.map": "/picc-dao/static/js/runtime-main.a623094c.js.map",
     "static/js/3.a7e44d7b.chunk.js": "/picc-dao/static/js/3.a7e44d7b.chunk.js",
@@ -39,6 +39,6 @@
     "static/js/runtime-main.a623094c.js",
     "static/js/3.a7e44d7b.chunk.js",
     "static/css/main.13e43e85.chunk.css",
-    "static/js/main.ed6a00d8.chunk.js"
+    "static/js/main.9e3763fc.chunk.js"
   ]
 }
